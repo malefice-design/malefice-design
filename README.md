@@ -1,4 +1,4 @@
-# Hola, soy Magdalena 👋
+# Hola, soy Magdalena ✨
 
 Senior Product Designer & UX Researcher con más de 9 años mejorando productos digitales en banca, telecomunicaciones, salud, ecommerce y servicios.
 
@@ -13,4 +13,6 @@ Acá diseño y construyo proyectos propios apoyándome en IA: ideas que parten d
 
 ## 🔗 Encuéntrame en
 
-[malefice.cl](https://malefice.cl) · [LinkedIn](https://www.linkedin.com/in/magdalena-riquelme/)
+[malefice.cl](https://malefice.cl) · [LinkedIn](https://www.linkedin.com/in/magdalena-riquelme/) 
+
+O para ver mi lado más creativo en [@malefice_design](https://www.instagram.com/malefice_art/)
