@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Magdalena 👋
 
-<!--
-**malefice-design/malefice-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Designer & UX Researcher con más de 9 años mejorando productos digitales en banca, telecomunicaciones, salud, ecommerce y servicios.
 
-Here are some ideas to get you started:
+Casi todo pasa hoy por una pantalla, y me importa que nadie quede fuera: diseño para que las experiencias digitales sean claras y simples para cualquier persona.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Mi laboratorio
+
+Acá diseño y construyo proyectos propios apoyándome en IA: ideas que parten de una necesidad concreta y terminan en algo que se puede usar.
+
+- **[What to Draw](https://malefice-design.github.io/what-to-draw/)**: generador de ideas para dibujar, pensado para el bloqueo creativo.
+- **[Regulación emocional](https://malefice-design.github.io/regulacion-emocional/)**: guía interactiva de estrategias según lo que necesitas en el momento.
+
+## 🔗 Encuéntrame en
+
+[malefice.cl](https://malefice.cl) · [LinkedIn](https://www.linkedin.com/in/magdalena-riquelme/)
