@@ -10,6 +10,7 @@ Acá diseño y construyo proyectos propios apoyándome en IA: ideas que parten d
 
 - **[What to Draw](https://malefice-design.github.io/what-to-draw/)**: generador de ideas para dibujar, pensado para el bloqueo creativo.
 - **[Regulación emocional](https://malefice-design.github.io/regulacion-emocional/)**: guía interactiva de estrategias según lo que necesitas en el momento.
+- **[Mis Hobbies](https://malefice-design.github.io/Hobbies/)**: en base a tu catálogo de hobbies, te sugiere qué hacer dependiendo de tus preferencias.
 
 ## 🔗 Encuéntrame en
 
