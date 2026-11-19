@@ -4,13 +4,14 @@ Senior Product Designer & UX Researcher con más de 9 años mejorando productos 
 
 Casi todo pasa hoy por una pantalla, y me importa que nadie quede fuera: diseño para que las experiencias digitales sean claras y simples para cualquier persona.
 
-## 🧪 Mi laboratorio
+## 🧪 Mis experimentos
 
 Acá diseño y construyo proyectos propios apoyándome en IA: ideas que parten de una necesidad concreta y terminan en algo que se puede usar.
 
 - **[What to Draw](https://malefice-design.github.io/what-to-draw/)**: generador de ideas para dibujar, pensado para el bloqueo creativo.
 - **[Regulación emocional](https://malefice-design.github.io/regulacion-emocional/)**: guía interactiva de estrategias según lo que necesitas en el momento.
 - **[Mis Hobbies](https://malefice-design.github.io/Hobbies/)**: en base a tu catálogo de hobbies, te sugiere qué hacer dependiendo de tus preferencias.
+- **[Caminata](https://malefice-design.github.io/caminata/)**: calculo los datos completos de tu caminata según los datos que tengas.
 
 ## 🔗 Encuéntrame en
 
